@@ -1,7 +1,6 @@
-steamlit
+streamlit
 pandas
 numpy
 matplotlib
 seaborn
-pickle
 nltk
